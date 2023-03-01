@@ -6,7 +6,7 @@ xray panel supporting multi-protocol, **Multi-lang (English,Farsi,Chinese)**
 # Install & Upgrade
 
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/test/master/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/wendyjorden/oldux/main/install.sh)
 ```
 
 # SSL
